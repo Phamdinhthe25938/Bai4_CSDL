@@ -1,0 +1,1 @@
+SELECT * FROM bai_4.khoa;
